@@ -1,5 +1,6 @@
-# AutoWordle-Simulator
-An algorithm in Python that shows how a game like Wordle simulates it's guesses and inputs the right answer. 
-The Word.txt file includes every single word possible in this world and we let the code read the file, 
-and then randomly choose one word and plays out 5 guesses in similarity with the real game. It shows if a word is incorrect and the circumstances 
-behind it, and also the conditions on how it wins.
+# Wordle Simulation in Python
+This Python algorithm simulates a Wordle-like game, demonstrating how the game guesses words and identifies the correct answer. The Words.txt file contains a comprehensive list of possible words. The code reads this file, randomly selects one word as the answer, and then plays out up to 5 guesses, mimicking the real game's mechanics.
+
+The simulation provides feedback on each guess, indicating whether it is correct or incorrect and the conditions leading to the outcome. It also showcases the logic behind determining a win or a loss based on the game's rules.
+
+
